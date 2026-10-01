@@ -2,8 +2,8 @@
 
 Portafolio personal responsivo construido con **HTML, CSS, JavaScript y Bootstrap 5**, a partir de la plantilla *Resume* de Start Bootstrap.
 
-**Sitio en vivo:** https://jordimoises01-pixel.github.io/portafolio-web/
-**Repositorio:** https://github.com/jordimoises01-pixel/portafolio-web
+**Sitio en vivo:** https://jordimoises01-pixel.github.io/Actividad-4/
+**Repositorio:** https://github.com/jordimoises01-pixel/Actividad-4
 
 ## Descripción del proyecto
 Este repositorio contiene el código fuente del portafolio web personal de Jordi Moises Alvarez Mora, estudiante de Ingeniería en Sistemas Computacionales en Oaxaca de Juárez. El sitio web presenta su perfil profesional, formación académica, proyectos actuales y planeados, habilidades técnicas e información de contacto.
